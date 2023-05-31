@@ -1,0 +1,80 @@
+- Calcular el valor absoluto de un numero que sea ingresado por teclado
+    
+    
+    ```
+    Inicio
+    Imprimir "Ingrese un número:"
+    Leer numero
+    Si numero < 0 Entonces
+        numero = -numero 
+    Imprimir "El valor absoluto del número es -> ", numero
+    Fin
+    ```
+
+- Determinar si un numero es par o impar, el numero ingresado por teclado
+    
+    
+    ```
+    Inicio
+    Imprimir "Ingrese un número:"
+    Leer numero
+    Si numero % 2 = 0 Entonces
+        Imprimir "El número es par"
+    Sino
+        Imprimir "El número es impar"
+    Fin Si
+    Fin
+    ```
+
+- Determinar si el numero que se ingreso por teclado es positivo, negativo o neutro
+    
+    
+    ```
+    Inicio
+    Imprimir "Ingrese un número:"
+    Leer numero
+    Si numero > 0 Entonces
+        Imprimir "El número es positivo"
+    Sino Si numero < 0 Entonces
+        Imprimir "El número es negativo"
+    Sino
+        Imprimir "El número es neutro"
+    Fin Si
+    Fin
+    ```
+
+- Imprimir los numeros del 0 al 100 en orden ascendente y descendente
+    
+    ```
+    
+    Inicio
+    ascendente
+    Para i desde 0 hasta 100  i++
+    Imprimir i
+    Fin Para
+    Fin
+    
+    descendente
+    Para i desde 100 hasta 0 paso i--
+    Imprimir i
+    Fin Para
+    Fin
+    ```
+
+- Imprimir los 100 primeros numeros pares y los 100 primeros numeros impares
+    
+    ```
+    Inicio
+    100 números pares
+        Para i desde 1 hasta 200
+            numero = i * 2
+            Imprimir numero
+        Fin Para
+    100 números impares
+        Para i desde 1 hasta 200
+            numero = (i * 2) - 1
+            Imprimir numero
+        Fin Para
+    Fin
+    ```
+
