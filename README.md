@@ -8,3 +8,5 @@ Este repositorio subiremos 5 codigos que son:
 
 Cada integrante lo subira en un distinto lenguaje de programacion, junto con su pseudocodigo y la imagen 
 de los diagramas de flujo 
+
+Hugo Axel - En lo particular me base en 
