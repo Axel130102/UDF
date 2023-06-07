@@ -9,5 +9,4 @@ Este repositorio subiremos 5 codigos que son:
 Cada integrante lo subira en un distinto lenguaje de programacion, junto con su pseudocodigo y la imagen 
 de los diagramas de flujo 
 
-Hugo Axel - En lo particular me base en un curso que habia comprado, para repasar y aparte busque ayuda tanto en youtube,
-y chatgpt para cosas que no entendia saber su logica.
+Hugo Axel - Java Script - En lo particular me base en un curso que habia comprado, para repasar y aparte busque ayuda tanto en youtube, y chatgpt para cosas que no entendia saber su logica.
